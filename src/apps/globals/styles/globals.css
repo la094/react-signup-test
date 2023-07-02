@@ -1,0 +1,18 @@
+@import url("https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.css");
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+}
+
+#__next {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
